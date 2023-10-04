@@ -50,9 +50,9 @@ I’ve collected over 1,000 questions to ask yourself when designing. Questions 
 
 ## Designing for Touch Checklist
 
-01 — Input is never precise: are hit targets at least 50×50px?
-02 — Are all our icons large enough to avoid rage-taps/-clicks?
-03 — Can we turn icons into larger clickable areas with labels?
+01. — Input is never precise: are hit targets at least 50×50px?
+02. — Are all our icons large enough to avoid rage-taps/-clicks?
+03. — Can we turn icons into larger clickable areas with labels?
 04 — Do our links, form elements, and search have enough padding?
 05 — Do we expose critical navigation as bottom nav on mobile?
 06 — Do we center a critical icon/call to action in the bottom bar?
