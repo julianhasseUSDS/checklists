@@ -1258,22 +1258,21 @@ I’ve collected over 1,000 questions to ask yourself when designing. Questions 
 33. Do we keep track of misspellings via search logs?
 
 ## Video Player Checklist
-
-01. How do we design the thumb, the track, and the controls?
- 02. Do we ensure a large enough tap area for the thumb on mobile?
-03. Do we increase the thumb size and scale size on hover, tap, or click?
-  04. How do we optimize for precise input and fast-forwards (keyboard, buttons)?
+How do we design the thumb, the track, and the controls?
+2. Do we ensure a large enough tap area for the thumb on mobile?
+3. Do we increase the thumb size and scale size on hover, tap, or click?
+4. How do we optimize for precise input and fast-forwards (keyboard, buttons)?
  05. When do we display and hide controls?
 06. How do we design the audio controller?
 07. Do we mute audio by default?
 08. Do we display subtitles by default?
 09. Do we use IP-geolocation to choose a default language for audio/subtitles?
 10. How do users select subtitles and lang, position, size, color?
- 11. Do we use preview clips, popularity bar, key moments preview?
+11. Do we use preview clips, popularity bar, key moments preview?
 12. Should the scale of the slider adjust based on viewport width?
- 13. Have we styled the hover, active, and focus states for player controls?
- 14. Are the UI and controls accessible via keyboard?
- 15. Do we provide an input fallback to jump to a specific point in time?
+13. Have we styled the hover, active, and focus states for player controls?
+14. Are the UI and controls accessible via keyboard?
+15. Do we provide an input fallback to jump to a specific point in time?
 16. What happens if the video is outside of the view?
 17. Can users resize the video size on the page to fit their needs best?
 18. Do we adjust the slider’s scale dynamically when customers navigate the track?
