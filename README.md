@@ -2,7 +2,7 @@
 
 How often do you forget to consider all the fine details that goes into interface design? How large should a hamburger icon be to avoid rage-clicks? Should sections in an accordion collapse automatically when moving from one to another? Can users tap on the same spot to undo actions (for zooming, filters, or general navigation)?
 
-I’ve collected over 1,000 questions to ask yourself when designing. Questions about accordions, dropdowns, carousels, timelines, tables, date pickers, tables, configurators, calendars, sliders, advanced configurators, maps, seating selection, onboarding, and authentication. The result is a free PDF with common questions and issues to consider — designer and developer together — when discussing a component or a solution for a problem.
+I’ve collected over 1,000 questions to ask yourself when designing. Questions about accordions, dropdowns, carousels, timelines, tables, date pickers, tables, configurators, calendars, sliders, advanced configurators, maps, seating selection, onboarding, and authentication. The result is a list with common questions and issues to consider — designer and developer together — when discussing a component or a solution for a problem.
 
 ## Table of Contents
 
