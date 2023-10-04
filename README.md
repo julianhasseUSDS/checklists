@@ -6,9 +6,9 @@ I’ve collected over 1,000 questions to ask yourself when designing. Questions 
 
 ## Table of Contents
 
-✓ Designing For Touch Checklist
-✓ Accordion Checklist
-✓ Navigation Checklist
+• Designing For Touch Checklist
+• Accordion Checklist
+• Navigation Checklist
 ✓ Hamburger Menu Checklist
 ✓ Filtering Checklist
 ✓ Sorting Checklist
