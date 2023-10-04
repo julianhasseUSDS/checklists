@@ -6,45 +6,45 @@ I’ve collected over 1,000 questions to ask yourself when designing. Questions 
 
 ## Table of Contents
 
-• Designing For Touch Checklist
-• Accordion Checklist
-• Navigation Checklist
-✓ Hamburger Menu Checklist
-✓ Filtering Checklist
-✓ Sorting Checklist
-✓ Autocomplete Search Checklist
-✓ Carousels Checklist
-✓ Tables Checklist
-✓ Feature Comparison Checklist
-✓ Pricing Plans Checklist
-✓ Reviews and Testimonials Checklist
-✓ Sliders Checklist
-✓ Video Player Checklist
-✓ Date Pickers Checklist
-✓ Configurators Checklist
-✓ Timelines Checklist
-✓ Maps and Charts Checklist
-✓ Seating Plans Checklist
-✓ Web Forms checklist
-✓ Donation Form Checklist
-✓ Authentication Checklist
-✓ Onboarding Checklist
-✓ Product Page Checklist
-✓ Privacy Checklist
-✓ Onboarding and Offboarding Checklist
-✓ Pricing Plans Design Checklist
-✓ Reviews and Testimonials Checklist
-✓ Web Form Design Checklist
-✓ Authentication Checklist
-✓ Donation Form Design Checklist
-✓ Autocomplete Design Checklist
-✓ Video Player Checklist
-✓ Disabled Buttons Checklist
-✓ Mega-Dropdowns Checklist
-✓ Providing A Way Out Checklist
-✓ Inline Validation Checklist
-✓ Back Button UX Checklist
-✓ Modals, Overlays, and Pop-overs Checklist
+- Designing For Touch Checklist
+- Accordion Checklist
+- Navigation Checklist
+- Hamburger Menu Checklist
+- Filtering Checklist
+- Sorting Checklist
+- Autocomplete Search Checklist
+- Carousels Checklist
+- Tables Checklist
+- Feature Comparison Checklist
+- Pricing Plans Checklist
+- Reviews and Testimonials Checklist
+- Sliders Checklist
+- Video Player Checklist
+- Date Pickers Checklist
+- Configurators Checklist
+- Timelines Checklist
+- Maps and Charts Checklist
+- Seating Plans Checklist
+- Web Forms checklist
+- Donation Form Checklist
+- Authentication Checklist
+- Onboarding Checklist
+- Product Page Checklist
+- Privacy Checklist
+- Onboarding and Offboarding Checklist
+- Pricing Plans Design Checklist
+- Reviews and Testimonials Checklist
+- Web Form Design Checklist
+- Authentication Checklist
+- Donation Form Design Checklist
+- Autocomplete Design Checklist
+- Video Player Checklist
+- Disabled Buttons Checklist
+- Mega-Dropdowns Checklist
+- Providing A Way Out Checklist
+- Inline Validation Checklist
+- Back Button UX Checklist
+- Modals, Overlays, and Pop-overs Checklist
 
 ---
 
