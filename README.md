@@ -1124,7 +1124,7 @@ I’ve collected over 1,000 questions to ask yourself when designing. Questions 
 36. For our autocomplete, do we also accept alternative manual input?
 37. Do we display the results count for categories with autocomplete?
 38. Is autocomplete keyboard-accessible, and forgiving of minor typos and errors?
-39. Do we use a localization based on user-provided country or ZIP/postal code (placeholders, masks, input field(s) width, formatting, spelling, currency, legal requirements)?
+39. Do we use a localization based on user-provided country or ZIP/postal code (placeholders, masks, input field(s) width, formatting, spelling, currency, legal requirements)
 40. Can we ask for a full name instead of first, middle and last names?
 41. Do we avoid “Address Line 2” and use more contextual labels instead (“Apartment, suite, unit, floor”)? 
 42. Can we use an address look-up widget (Loqate, Algolia Place, Google Place Autocomplete) to speed up location input?
